@@ -1,31 +1,30 @@
 ![Header](./header.png)
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Aman Chaudhary and I'm a Software Engineer</h2>
+<h1 align="center">Hi 👋! My name is Ankush and I'm a Software Engineer</h1>
 
 ###
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AmanChaudhary1609.AmanChaudhary1609&"  />
 </div>
 
-###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanChaudhary1609&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanChaudhary1609&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AmanChaudhary1609&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AmanChaudhary1609&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NotBlankk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=NotBlankk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NotBlankk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+<br clear="both">
 
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRjeHppaHM0eGs4N2JzZXR2MGRveG52NGQxZzJkZ2dyODJua3FpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnF4eWp4ejlvZzlnaWRsM2pwZ3BmemM4c3g0MHY5dWN4Zjd4ZmxlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -94,28 +93,27 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/singh.amn234/" target="_blank">
+<div align="left">
+  <a href="https://www.instagram.com/notb1ank/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:amn234singh@gmail.com" target="_blank">
+  <a href="mailto:ankushpanwar0207@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/aman-chaudhary-85a1b9229/" target="_blank">
+  <a href="https://www.linkedin.com/in/ankush-panwar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-
 <br clear="both">
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanChaudhary1609/AmanChaudhary1609/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanChaudhary1609/AmanChaudhary1609/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AmanChaudhary1609/AmanChaudhary1609/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotBlankk/NotBlankk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NotBlankk/NotBlankk/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NotBlankk/NotBlankk/output/github-snake.svg" />
 </picture>
 
 ###
